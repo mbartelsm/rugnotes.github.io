@@ -11,3 +11,4 @@
 - Advanced Algorithms and Data Structures
 - Linear Algebra and Multivariable Calculus
 - Object-Oriented Programming
+- [Statistics](/classes/statistics/)
