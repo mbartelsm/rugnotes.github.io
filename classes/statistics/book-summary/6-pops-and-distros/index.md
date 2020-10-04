@@ -216,6 +216,6 @@ $$\text P\left(\frac{\bar X - \mu}{\sigma / \sqrt{n}} \leq b \right) \approx \te
 
 Where $Z$ is a standard normal random variable. A fact about this theorem is that we can replace $\sigma$ with the sample standard deviation $s$ when we standardize $\bar X$ and still get
 
-$$\text P\left(\frac{\bar X - \mu}{{\color{red}s}\,/\sqrt{n}} \leq b \right) \approx \text P (Z \leq b)$$
+$$\text P\left(\frac{\bar X - \mu}{ {\color{red} s}\,/\sqrt{n} } \leq b \right) \approx \text P (Z \leq b)$$
 
 This theorem only applies for large $n$. But what is a large enough $n$? it is of a size such that the sampling distribution is normal, which is about 30 for symmetric, unimodal populations.
